@@ -32,7 +32,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     '8000-charliemcgoldrick-ci-wal-z1coyxcj7r.us2.codeanyapp.com',
-    'https://ci-walkthrough-django-blog-e4430ec0b99e.herokuapp.com/'
+    'ci-walkthrough-django-blog-e4430ec0b99e.herokuapp.com'
 ]
 
 
